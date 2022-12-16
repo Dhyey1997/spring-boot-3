@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootExampleApplication<spring-boot-example>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.devilscode.springbootexample.SpringBootExampleApplication",
+            "projectName": "spring-boot-example",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
